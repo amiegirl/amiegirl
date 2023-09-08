@@ -2,7 +2,7 @@
 ## 👀 I'm a Data Scientist passionate about community development and solving problems for businesses. I work on random projects at my leisure.<br><hb>
 ## 💞️ I'm open to collaborating on open-source projects. <br>
 ## Connect with me
-You can reach out to me at owodunniaminat@yahoo.com<br><hb> or connect with me on [LinkedIn](https://www.linkedin.com/in/aminat-owodunni-287811a1/)
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/aminat-owodunni-287811a1/) or reach out to me at owodunniaminat@yahoo.com<br><hb>
 ## Favourite Repositories
 * [Meal Recommender App](https://github.com/amiegirl/Machine_Learning_Portfolio_Projects/tree/main/Machine_Learning_with_Python_Projects/Meal_Recommender_App)
 * [Sentiment Analysis](https://github.com/amiegirl/Machine_Learning_Portfolio_Projects/tree/main/Machine_Learning_with_Python_Projects/Sentiment_Analysis)
