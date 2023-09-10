@@ -9,6 +9,7 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/aminat-owodunn
 * [Employee Attrition](https://github.com/amiegirl/Data_Analyst_Portfolio_Projects/tree/main/Python_Projects/Employee_Attrition)
 * [WeRateDogs](https://github.com/amiegirl/Data_Analyst_Portfolio_Projects/tree/main/Python_Projects/WeRateDogs)
 * [Fashion Data Analysis](https://github.com/amiegirl/Data_Analyst_Portfolio_Projects/tree/main/Ms_Power_BI_Projects/Fashion_Data_Analysis)
-* [Sales Analytics and Performance Dashboard](https://github.com/amiegirl/Data_Analyst_Portfolio_Projects/tree/main/Ms_Excel_Projects/Sales_Analytics_and_Performance_Dashboard)
+* [Sales Performance Dashboard](https://github.com/amiegirl/Data_Analyst_Portfolio_Projects/tree/main/Ms_Excel_Projects/Sales_Analytics_and_Performance_Dashboard)
+* [Web Scraping](https://github.com/amiegirl/Data_Analyst_Portfolio_Projects/tree/main/Python_Projects/Web_Scraping)
 ## Languages and Tools
 [![My Skills](https://skills.thijs.gg/icons?i=py,html,figma,mysql,postgres)](https://skills.thijs.gg)
