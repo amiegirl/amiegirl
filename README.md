@@ -6,7 +6,7 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/aminat-owodunn
 ## Favourite Repositories
 * [Human Resource Analytics](
 https://github.com/amiegirl/Data_Analyst_Portfolio_Projects/blob/main/Ms_Power_BI_Projects%2FHuman_Resource_Analytics%2FREADME.md)
-* [Meal Recommender App](https://github.com/amiegirl/Machine_Learning_Portfolio_Projects/tree/main/Machine_Learning_with_Python_Projects/Meal_Recommender_App)
+* [Meal Recommender](https://github.com/amiegirl/Machine_Learning_Portfolio_Projects/tree/main/Machine_Learning_with_Python_Projects/Meal_Recommender_App)
 * [Sentiment Analysis](https://github.com/amiegirl/Machine_Learning_Portfolio_Projects/tree/main/Machine_Learning_with_Python_Projects/Sentiment_Analysis)
 * [Employee Attrition](https://github.com/amiegirl/Data_Analyst_Portfolio_Projects/tree/main/Python_Projects/Employee_Attrition)
 * [WeRateDogs](https://github.com/amiegirl/Data_Analyst_Portfolio_Projects/tree/main/Python_Projects/WeRateDogs)
