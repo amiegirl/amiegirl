@@ -1,5 +1,5 @@
 # Hi There I'm Aminat 👋 <br><hb>
-## 👀 I'm a Data Scientist passionate about community development and solving problems for businesses. I work on random projects at my leisure.<br><hb>
+## 👀 I'm a Data Scientist passionate about innovations and solving problems for businesses. I work on random projects at my leisure.<br><hb>
 ## 💞️ I'm open to collaborating on open-source projects. <br>
 ## Connect with me
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/aminat-owodunni-287811a1/) or reach out to me at owodunniaminat@yahoo.com<br><hb>
