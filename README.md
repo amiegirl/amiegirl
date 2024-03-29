@@ -3,7 +3,9 @@
 ## 🦾 I work on random projects at my leisure.<br><hb>
 ## 🫂 I'm open to collaborating on open-source projects.<br>
 ## 👥 Connect with me
-[LinkedIn](https://www.linkedin.com/in/aminat-owodunni-287811a1/)<br><hb>
+[LinkedIn](https://www.linkedin.com/in/aminat-owodunni/)
+[Twitter](https://www.twitter.com/amiegirl4ril/)
+<br><hb>
 ## Favourite Repositories
 * [Sentiment Analyzer App](https://github.com/amiegirl/sentiment_analyzer_app)
 * [Human Resource Analytics](
