@@ -1,5 +1,5 @@
 # Hi There I'm Aminat 👋 <br><hb>
-## 👀 A result driven Data Scientist, leveraging analytical approach to create productive innovations.<br><hb>
+## 👀 A Result Driven Data Scientist, Leveraging Analytical Approach to Create Productive Innovations.<br><hb>
 ## 🦾 I work on random projects at my leisure.<br><hb>
 ## 🫂 I'm open to collaborating on open-source projects.<br>
 ## 👥 Connect with me
