@@ -3,7 +3,7 @@
 ## 🦾 I work on random projects at my leisure.<br><hb>
 ## 🫂 I'm open to collaborating on open-source projects.<br>
 ## 👥 Connect with me
-[LinkedIn](https://www.linkedin.com/in/aminat-owodunni/)
+[LinkedIn](https://www.linkedin.com/in/aminat-owodunni/)<br>
 [Twitter](https://www.twitter.com/amiegirl4ril/)
 <br><hb>
 ## Favourite Repositories
