@@ -1,7 +1,7 @@
 # Hi There I'm Aminat 👋 <br><hb>
-## 👀 A result driven Data Scientist, leveraging analytical approach to create productive innovations.<br>
-I work on random projects at my leisure.<br><hb>
-## 💞️ I'm open to collaborating on open-source projects.<br>
+## 👀 A result driven Data Scientist, leveraging analytical approach to create productive innovations.<br><hb>
+## 🦾 I work on random projects at my leisure.<br><hb>
+## 👥 I'm open to collaborating on open-source projects.<br>
 ## Connect with me
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/aminat-owodunni-287811a1/) or reach out to me at owodunniaminat@yahoo.com<br><hb>
 ## Favourite Repositories
