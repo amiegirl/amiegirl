@@ -4,7 +4,7 @@
 ## 🫂 I'm open to collaborating on open-source projects.<br>
 ## 👥 Connect with me
 [LinkedIn](https://www.linkedin.com/in/aminat-owodunni/)<br>
-[X](https://www.x.com/amiegirl4ril)
+[X](https://www.x.com/aminat_owodunn1)
 <br><hb>
 ## Favourite Repositories
 * [Sentiment Analyzer App](https://github.com/amiegirl/sentiment_analyzer_app)
